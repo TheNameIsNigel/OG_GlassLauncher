@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glass Launcher</string>
+    <string name="applications_icon">Icône Applications</string>
+    <string name="battery_state_indicator">Indicateur d\'état de la batterie</string>
+    <string name="bluetooth_state_indicator">Indicateur d\'état du Bluetooth</string>
+    <string name="empty_applications_list">Aucune application installée</string>
+    <string name="greeting_message_afternoon">bonjour</string>
+    <string name="greeting_message_evening">bonsoir</string>
+    <string name="greeting_message_morning">bonjour</string>
+    <string name="left_arrow">Flèche gauche</string>
+    <string name="muted">Son coupé</string>
+    <string name="off">DÉSACTIVÉ</string>
+    <string name="on">ACTIVÉ</string>
+    <string name="volume_state_indicator">Indicateur d\'état du volume</string>
+    <string name="wifi_state_indicator">Indicateur d\'état du Wi-Fi</string>
+</resources>

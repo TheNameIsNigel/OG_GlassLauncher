@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/launcher" style="@style/Style.Black">
+    <TextClock android:id="@+id/launcher_clock" android:transitionName="@string/clock_transition" app:layout_constraintBottom_toTopOf="@+id/greeting" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toTopOf="0" style="@style/Style.Clock.Launcher"/>
+    <TextView android:id="@+id/greeting" app:layout_constraintBottom_toTopOf="@+id/app_drawer_icon" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" app:layout_constraintTop_toBottomOf="@+id/launcher_clock" style="@style/Style.Greeting"/>
+    <ImageView android:id="@+id/app_drawer_icon" android:contentDescription="@string/applications_icon" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintLeft_toLeftOf="0" app:layout_constraintRight_toRightOf="0" style="@style/Style.PageIcon.AppDrawer"/>
+    <ImageView android:id="@+id/imageViewArrowLeft" android:contentDescription="@string/left_arrow" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/Style.Chevron.Left"/>
+</android.support.constraint.ConstraintLayout>

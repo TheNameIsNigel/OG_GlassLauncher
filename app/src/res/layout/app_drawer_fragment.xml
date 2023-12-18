@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/appdrawer" style="@style/Style.Black">
+    <android.support.v7.widget.RecyclerView android:id="@+id/apps" android:layout_centerInParent="true" style="@style/Style.AppItemsList"/>
+    <TextClock android:id="@+id/app_drawer_clock" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" android:transitionName="@string/clock_transition" style="@style/Style.Clock.AppDrawer"/>
+    <ImageView android:id="@+id/imageViewIconHighlight" android:layout_centerInParent="true" style="@style/Style.AppItemHighlight"/>
+    <TextView android:id="@+id/textViewApplicationLabel" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/Style.AppName"/>
+</RelativeLayout>

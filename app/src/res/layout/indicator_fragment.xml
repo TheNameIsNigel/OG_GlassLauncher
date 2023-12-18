@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="@dimen/indicators_view_width" android:layout_height="match_parent">
+    <ImageView android:id="@+id/imageViewWifi" android:visibility="visible" android:src="@drawable/wifi_level_list" android:contentDescription="@string/wifi_state_indicator" style="@style/ImageViewStyle.Indicator"/>
+    <ImageView android:id="@+id/imageViewBattery" android:src="@drawable/battery_level_list" android:contentDescription="@string/battery_state_indicator" style="@style/ImageViewStyle.Indicator"/>
+    <ImageView android:id="@+id/imageViewBluetooth" android:src="@drawable/bluetooth_level_list" android:contentDescription="@string/bluetooth_state_indicator" style="@style/ImageViewStyle.Indicator"/>
+    <ImageView android:id="@+id/imageViewVolume" android:src="@drawable/volume_level_list" android:contentDescription="@string/volume_state_indicator" style="@style/ImageViewStyle.Indicator"/>
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">‏‮Navigate‬‏ ‏‮home‬‏</string>
+    <string name="abc_action_bar_up_description">‏‮Navigate‬‏ ‏‮up‬‏</string>
+    <string name="abc_action_menu_overflow_description">‏‮More‬‏ ‏‮options‬‏</string>
+    <string name="abc_action_mode_done">‏‮Done‬‏</string>
+    <string name="abc_activity_chooser_view_see_all">‏‮See‬‏ ‏‮all‬‏</string>
+    <string name="abc_activitychooserview_choose_application">‏‮Choose‬‏ ‏‮an‬‏ ‏‮app‬‏</string>
+    <string name="abc_capital_off">‏‮OFF‬‏</string>
+    <string name="abc_capital_on">‏‮ON‬‏</string>
+    <string name="abc_search_hint">‏‮Search…‬‏</string>
+    <string name="abc_searchview_description_clear">‏‮Clear‬‏ ‏‮query‬‏</string>
+    <string name="abc_searchview_description_query">‏‮Search‬‏ ‏‮query‬‏</string>
+    <string name="abc_searchview_description_search">‏‮Search‬‏</string>
+    <string name="abc_searchview_description_submit">‏‮Submit‬‏ ‏‮query‬‏</string>
+    <string name="abc_searchview_description_voice">‏‮Voice‬‏ ‏‮search‬‏</string>
+    <string name="abc_shareactionprovider_share_with">‏‮Share‬‏ ‏‮with‬‏</string>
+    <string name="abc_shareactionprovider_share_with_application">‏‮Share‬‏ ‏‮with‬‏ %s</string>
+    <string name="abc_toolbar_collapse_description">‏‮Collapse‬‏</string>
+    <string name="app_name">‏‮Glass‬‏ ‏‮Launcher‬‏</string>
+    <string name="applications_icon">‏‮Applications‬‏ ‏‮icon‬‏</string>
+    <string name="battery_state_indicator">‏‮Battery‬‏ ‏‮state‬‏ ‏‮indicator‬‏</string>
+    <string name="bluetooth_state_indicator">‏‮Bluetooth‬‏ ‏‮state‬‏ ‏‮indicator‬‏</string>
+    <string name="empty_applications_list">‏‮No‬‏ ‏‮apps‬‏ ‏‮installed‬‏</string>
+    <string name="greeting_message_afternoon">‏‮good‬‏ ‏‮afternoon‬‏</string>
+    <string name="greeting_message_evening">‏‮good‬‏ ‏‮evening‬‏</string>
+    <string name="greeting_message_morning">‏‮good‬‏ ‏‮morning‬‏</string>
+    <string name="left_arrow">‏‮Left‬‏ ‏‮arrow‬‏</string>
+    <string name="muted">‏‮Muted‬‏</string>
+    <string name="off">‏‮OFF‬‏</string>
+    <string name="on">‏‮ON‬‏</string>
+    <string name="password_toggle_content_description">‏‮Toggle‬‏ ‏‮password‬‏ ‏‮visibility‬‏</string>
+    <string name="search_menu_title">‏‮Search‬‏</string>
+    <string name="status_bar_notification_info_overflow">‏‮999+‬‏</string>
+    <string name="volume_state_indicator">‏‮Volume‬‏ ‏‮state‬‏ ‏‮indicator‬‏</string>
+    <string name="wifi_state_indicator">‏‮Wifi‬‏ ‏‮state‬‏ ‏‮indicator‬‏</string>
+</resources>

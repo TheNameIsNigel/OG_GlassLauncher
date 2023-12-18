@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:shape="oval">
+    <size android:height="@dimen/app_drawer_item_circle_size" android:width="@dimen/app_drawer_item_circle_size"/>
+    <stroke android:width="@dimen/app_drawer_item_circle_stroke" android:color="@android:color/white"/>
+</shape>
